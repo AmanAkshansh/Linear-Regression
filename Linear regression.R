@@ -190,7 +190,7 @@ step$anova
 # lntotal_spend ~ age + lninc + lncreddebt + address + region + gender + 
 #            jobsat + addresscat + commutebike + card + card2,data = mydata
 
-#######################################################################################
+########################################################################################
 
         #  Final Model Building
 #        _ _ _ _ _ _ _ _ _ _ _ _ _ _
