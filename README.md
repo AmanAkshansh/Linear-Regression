@@ -20,3 +20,4 @@ The objective of this Project is to understand what's driving the total credit c
 8. Performed Decile analysis on both datasets.
 
 The Excel file(Case study 2 - Linear regression) contains the descriptive stats of all the variables, Regression result,Decile analysis with graphs between predicted and actual spend for both development and validation datasets.
+
